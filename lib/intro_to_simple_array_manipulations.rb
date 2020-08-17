@@ -18,6 +18,6 @@ end
 
 def using_flatten(array)
   
-  array.using_flatten(1)
+  array.flatten
   
 end 

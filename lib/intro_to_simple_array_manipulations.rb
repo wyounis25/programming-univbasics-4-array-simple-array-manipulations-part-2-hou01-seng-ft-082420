@@ -24,6 +24,6 @@ end
 
 def using_delete(array,string)
   
-  array.concat(element)
+  array.delete(string)
   
 end 
